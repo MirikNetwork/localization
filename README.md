@@ -1,3 +1,8 @@
-# MirikNetwork » Translations repository
+<div align="center">
 
-***Данный репозиторий используется для мульти-язяковой системы с проекта **MirikNetwork**
+ # MirikNetwork » Translations repository
+
+ ***
+Данный репозиторий используется для мульти-язяковой системы с проекта **MirikNetwork**
+</div>
+
